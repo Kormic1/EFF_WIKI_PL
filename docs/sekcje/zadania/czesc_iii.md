@@ -1,6 +1,11 @@
-# Część 3 - Powrót do Kolonii
+---
+title: "Część 3 — Powrót do Kolonii"
+sidebar_label: "Powrót do Kolonii"
+description: "Powrót do Kolonii w Ucieczce od Wolności. Solucja do końcowych zadań z Regulusem, wyprawy do orków i Świątyni Śniącego."
+slug: /solucja/powrot-do-kolonii/
+---
 
-### Powrót do kolonii
+## Powrót do kolonii {#powrot-do-kolonii}
 __Zleca:__
 
 Wraz z Regulusem docieramy do pałacu Zubena. Po rozmowie z władcą pustyni rozmawiamy z Regulusem.
@@ -15,21 +20,21 @@ Razem z Regulusem udajemy się do naszej kryjówki, gdzie spotykamy Maię walcz�
 
 W rozmowie mamy wybór: „Udało nam się uciec z Kolonii!” lub „Po prostu miałem coś do zrobienia.”.
 
-Zależnie od wybranej opcji jest inny przebieg zadania [Lekarstwo dla Spiki](#Lekarstwo-dla-Spiki). Po rozmowie zadanie dobiega końca.
+Zależnie od wybranej opcji jest inny przebieg zadania [Lekarstwo dla Spiki](#lekarstwo-dla-spiki). Po rozmowie zadanie dobiega końca.
 
-### Zawalenie Starej Kopalni
+## Zawalenie Starej Kopalni {#zawalenie-starej-kopalni}
 __Zleca: Strażnik bramy__
 
-Wymagane jest wykonanie zadania [Czas na zmiany.](sekcje/zadania/czesc_i?id=czas-na-zmiany)
+Wymagane jest wykonanie zadania [Czas na zmiany.](./czesc_i.md#czas-na-zmiany)
 
 Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
 
 Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
 
-### Ocaleni
+## Ocaleni {#ocaleni}
 __Zleca: Chiron__
 
-Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#Zawalenie-Starej-Kopalni).
+Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#zawalenie-starej-kopalni).
 
 Chiron prosi nas o sprawdzenie, czy ktoś przeżył katastrofę w Starej Kopalni. W tym celu udajemy się do Corristo, który wraz ze swoimi uczniami zgadza się pomóc.
 
@@ -47,7 +52,7 @@ Po uratowaniu wszystkich wracamy do Corristo. W trakcie rozmowy pojawia się dem
 
 Na zewnątrz rozmawiamy z ocalałymi, a następnie wracamy do Chirona, co kończy zadanie.
 
-### Lekarstwo dla Spiki
+## Lekarstwo dla Spiki {#lekarstwo-dla-spiki}
 __Zleca: Riordian__
 
 Gdy Saturas NIE wie o wyprawie do Varantu:
@@ -58,7 +63,7 @@ Idąc dalej, Maia skacze z urwiska do wody. Rozmawiamy z nią w wodzie, a potem 
 
 W tym momencie mamy wybór:
 
-- Możemy spróbować odesłać Maię do Regulusa, jeśli posiadamy pierścień lub runę teleportacji. Sami również udajemy się do Regulusa i odzyskujemy pierścień od Mai. Spotykamy się z nim przy wieży Xardasa obok powalonego drzewa. Następnie prowadzimy go do miejsca, z którego widać roślinę. Regulus zleca nam zadanie [Ulu-Mulu dla Regulusa](#Ulu-Mulu-dla-Regulusa). Po jego wykonaniu spotykamy się ponownie przy wieży obok wioski orków i kontynuujemy wątek [Wioska orków](#Wioska-orków) aż do otwarcia bramy. Regulus pokazuje nam drogę do rośliny. Po jej zdobyciu wracamy do Riordiana. Spika wraca do zdrowia.
+- Możemy spróbować odesłać Maię do Regulusa, jeśli posiadamy pierścień lub runę teleportacji. Sami również udajemy się do Regulusa i odzyskujemy pierścień od Mai. Spotykamy się z nim przy wieży Xardasa obok powalonego drzewa. Następnie prowadzimy go do miejsca, z którego widać roślinę. Regulus zleca nam zadanie [Ulu-Mulu dla Regulusa](#ulu-mulu-dla-regulusa). Po jego wykonaniu spotykamy się ponownie przy wieży obok wioski orków i kontynuujemy wątek [Wioska orków](#wioska-orkow) aż do otwarcia bramy. Regulus pokazuje nam drogę do rośliny. Po jej zdobyciu wracamy do Riordiana. Spika wraca do zdrowia.
 
 - Drugą opcją jest znalezienie pierścienia teleportacji. Nurkujemy przy zatopionej wieży i odnajdujemy go. Wracamy do miejsca, gdzie była Maia, znajdujemy kość i udajemy się do Regulusa. Spotykamy się z nim przy wieży Xardasa i prowadzimy go do miejsca z rośliną. Po rozmowie ruszamy za nim, pokonujemy golemy i wchodzimy do wieży. Regulus wysyła nas do Sharky’ego po solidny topór. Po jego zdobyciu wracamy, Regulus ścina drzewo i wchodzimy do wieży. 
 
@@ -66,7 +71,7 @@ W wieży schodzimy niżej i stajemy przed wyborem:
 
 - Możemy przemienić się w krwiopijcę i zdobyć roślinę. Po dostarczeniu jej Riordianowi Spika zostaje uratowana.
 
-- Możemy też wybrać opcję prowadzącą do zadania [Ulu-Mulu dla Regulusa](#Ulu-Mulu-dla-Regulusa). W tym przypadku Spika umiera.
+- Możemy też wybrać opcję prowadzącą do zadania [Ulu-Mulu dla Regulusa](#ulu-mulu-dla-regulusa). W tym przypadku Spika umiera.
 
 Gdy Saturas WIE o wyprawie do Varantu:
 
@@ -74,11 +79,11 @@ Do momentu skoku z klifu wszystko przebiega tak samo. Po wyjściu z wody Maia je
 
 Wracamy do Riordiana, który informuje nas, że teraz potrzebne będą dwie rośliny.
 
-Po pomoc udajemy się do Regulusa i spotykamy się z nim przy brzegu jeziora obok zatopionej wieży. Podążamy za nim aż do zbiornika wodnego, gdzie zleca nam [Ulu-Mulu dla Regulusa](#Ulu-Mulu-dla-Regulusa). Po wykonaniu zadania spotykamy się przy wieży obok wioski orków i kontynuujemy wątek [Wioska orków](#Wioska-orków) aż do zdobycia statuetki.
+Po pomoc udajemy się do Regulusa i spotykamy się z nim przy brzegu jeziora obok zatopionej wieży. Podążamy za nim aż do zbiornika wodnego, gdzie zleca nam [Ulu-Mulu dla Regulusa](#ulu-mulu-dla-regulusa). Po wykonaniu zadania spotykamy się przy wieży obok wioski orków i kontynuujemy wątek [Wioska orków](#wioska-orkow) aż do zdobycia statuetki.
 
 Przed wioską orków spotykamy Regulusa, który wręcza nam rośliny dla Mai i Spiki. Wracamy do Riordiana, Maia i Spika nie żyją.
 
-### Ulu-Mulu dla Regulusa
+## Ulu-Mulu dla Regulusa {#ulu-mulu-dla-regulusa}
 __Zleca: Regulus__
 
 Aby dostać się do orkowej wioski, potrzebujemy dodatkowego Ulu-Mulu.
@@ -87,10 +92,10 @@ Udajemy się do Wolnej Kopalni i rozmawiamy z Ur-Shakiem, który odsyła nas do 
 
 Z Ulu-Mulu wracamy do Regulusa, co kończy zadanie.
 
-### Wioska orków
+## Wioska orków {#wioska-orkow}
 __Zleca: Regulus__
 
-Początek zadania może się nieznacznie różnić w zależności od przebiegu [Lekarstwo dla Spiki](#Lekarstwo-dla-Spiki).
+Początek zadania może się nieznacznie różnić w zależności od przebiegu [Lekarstwo dla Spiki](#lekarstwo-dla-spiki).
 
 Po dostarczeniu Regulusowi Ulu-Mulu spotykamy się z nim przy wieży za skałą obok wioski orków. Następnie razem udajemy się pod bramę wioski.
 
@@ -118,45 +123,45 @@ Ur-Darrag zaprowadzi nas do wodza, który pozwoli wejść do miasta orków. Rozm
 
 Regulus teleportuje nas z celi. Spotykamy się z nim przed wieżą Xardasa, używamy zwoju i trafiamy pod świątynię Śniącego. Po rozmowie z Regulusem zadanie się kończy.
 
-### Miasto orków
+## Miasto orków {#miasto-orkow}
 __Zleca: Regulus__
 
-Jeśli w zadaniu [Wioska orków](#Wioska-orków) uciekliśmy z lochów, pomijamy cały wątek związany z orkami. W takim przypadku po prostu wybijamy mieszkańców miasta. Z ciała przywódcy orków zabieramy klucz i otwieramy kratę prowadzącą do świątyni. Koniec zadania.
+Jeśli w zadaniu [Wioska orków](#wioska-orkow) uciekliśmy z lochów, pomijamy cały wątek związany z orkami. W takim przypadku po prostu wybijamy mieszkańców miasta. Z ciała przywódcy orków zabieramy klucz i otwieramy kratę prowadzącą do świątyni. Koniec zadania.
 
 Jeśli dostaliśmy się do miasta pokojowo, na moście zagaduje nas Tukash, który kieruje nas do Hosh-Kara. Znajdziemy go za mostem, po prawej stronie, w jednym z pomieszczeń.
 
 Po rozmowie z nim musimy odnaleźć Hosh-Paka. Wracamy do Regulusa, a następnie wyruszamy na poszukiwania Hosh-Paka. Po rozmowie z nim ponownie wracamy do Regulusa.
 
-Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-Arasha. Ur-Arash zleca nam trzy zadania: [Orkowe mikstury](#Orkowe-mikstury), [Orkowa stal](#Orkowa-stal) oraz [Sekta](#Sekta).
+Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-Arasha. Ur-Arash zleca nam trzy zadania: [Orkowe mikstury](#orkowe-mikstury), [Orkowa stal](#orkowa-stal) oraz [Sekta](#sekta).
 
-Po wykonaniu zadań związanych ze stalą i miksturami skupiamy się na zadaniu [Sekta](#Sekta) i realizujemy je aż do powrotu do miasta.
+Po wykonaniu zadań związanych ze stalą i miksturami skupiamy się na zadaniu [Sekta](#sekta) i realizujemy je aż do powrotu do miasta.
 
 Po powrocie Regulus informuje nas, że wódz przekazał klucz i pozwolił wejść do świątyni. Podążamy za Regulusem, otwieramy kratę i przy wejściu do świątyni rozmawiamy z nim, co kończy zadanie.
 
-### Orkowe mikstury
+## Orkowe mikstury {#orkowe-mikstury}
 __Zleca: Ur-Arash__
 
 Musimy przynieść Wash-Kanowi 50 wyciągów oraz 50 eliksirów uzdrawiających. Znajdziemy go w pobliżu Varrag-Grash-Shata.
 
 Po dostarczeniu mikstur zadanie dobiega końca.
 
-### Orkowa stal
+## Orkowa stal {#orkowa-stal}
 __Zleca: Ur-Arash__
 
 Hosh-Kar potrzebuje 50 sztuk stali.
 
 Po przyniesieniu wymaganej ilości zadanie zostaje zakończone.
 
-### Sekta
+## Sekta {#sekta}
 __Zleca: Ur-Arash__
 
 Ur-Ashar wpuści nas do świątyni dopiero po rozprawieniu się z Obozem Bractwa.
 
 Po wyjściu z miasta orków rozmawiamy z Regulusem. Następnie wieczorem spotykamy się z Lesterem w jaskini przed bagnami. Po rozmowie wracamy do wioski orków i ponownie rozmawiamy z Regulusem.
 
-Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#Pomoc-dla-Y39Beriona).
+Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#pomoc-dla-yberiona).
 
-Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y39Beriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
+Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#lecznicze-ziola-dla-yberiona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
 
 Regulus każe nam przeszukać laboratorium Cor Kaloma. Obok laboratorium znajdujemy notatkę, którą przynosimy Regulusowi. Po jej przeczytaniu pojawia się miniatura Śniącego. Pokonujemy ją.
 
@@ -168,12 +173,12 @@ Wracamy do miasta orków i rozmawiamy z Regulusem. Przy pierwszym wejściu do ś
 
 Zadanie kończy się w momencie pokonania Cor Kaloma i jego popleczników w świątyni.
 
-### Pomoc dla Y'Beriona
+## Pomoc dla Y'Beriona {#pomoc-dla-yberiona}
 __Zleca: Cor Angar__
 
-Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y39Beriona).
+Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'Beriona](#lecznicze-ziola-dla-yberiona).
 
-### Lecznicze zioła dla Y'Beriona
+## Lecznicze zioła dla Y'Beriona {#lecznicze-ziola-dla-yberiona}
 __Zleca: Cor Angar__
 
 Cor Angar prosi nas o przyniesienie ziół dla Y'Beriona. Możemy po prostu je dostarczyć, jednak wtedy Y'Berion umrze.
@@ -184,12 +189,12 @@ Po jej zdobyciu mamy dwie możliwości. Jeśli znamy się na alchemii, otrzymamy
 
 Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratować Y'Beriona.
 
-### Świątynia Śniącego
+## Świątynia Śniącego {#swiatynia-sniacego}
 __Zleca:__
 
 Zadanie ma liniowy przebieg, a wszystkie rozwiązania zagadek znajdują się w dzienniku.
 
-### Magiczny miecz URIZIEL
+## Magiczny miecz URIZIEL {#magiczny-miecz-uriziel}
 __Zleca:__
 
 Wraz z Regulusem pokazujemy Uriziel Xardasowi. Ten wręcza nam klucz do skrzyni w swojej zatopionej wieży.
@@ -204,7 +209,7 @@ Po wszystkim wracamy do Regulusa, który czeka w karczmie na jeziorze.
 
 > Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
 
-### Powrót do świątyni
+## Powrót do świątyni {#powrot-do-swiatyni}
 __Zleca:__
 
 Po naładowaniu Uriziela możemy wraz z Regulusem wrócić do świątyni. Rozmawiamy z nim w karczmie na jeziorze i spotykamy się przed wejściem.

@@ -1,34 +1,21 @@
-# Gothic I: Ucieczka od Wolności - Wiki
+# Gothic I: Ucieczka od Wolności — Wiki
 
-Ten projekt zawiera solucję do Gothic I: Ucieczka od Wolności od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://ucieczka-od-wolnosci.mody.sefaris.eu](https://ucieczka-od-wolnosci.mody.sefaris.eu)
+Solucja od [Team Sefaris](https://sefaris.eu), dostępna na [ucieczka-od-wolnosci.mody.sefaris.eu](https://ucieczka-od-wolnosci.mody.sefaris.eu). Strona korzysta z Docusaurusa.
 
-## Instalacja oraz wymagania
+## Uruchamianie
 
-Aby dokonywać zmian lokalnie należy zainstalować:
+Wymagane Node.js 24 i pnpm 11.19.0.
 
-- Node.js
-
-Po zainstalowaniu należy wykonać komendę:
-
-```
-$ npm install
+```sh
+pnpm install --frozen-lockfile
+pnpm start
 ```
 
-W odpowiednim katalogu należy wpisać następującą komendę:
+Podgląd: `http://localhost:3000`. Kontrola przed wysłaniem zmian: `pnpm check`.
 
-```
-$ npm run docs
-```
+## Edycja
 
-Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
-
-## Użyte biblioteki
-
-- https://docsify.js.org
-
-## Dokonywanie zmian
-
-Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
+Treść zadań znajduje się w `docs/sekcje/zadania/*.md`, strona główna w `docs/README.mdx`, a menu w `sidebars.js`. Zachowuj identyfikatory nagłówków `{#nazwa-zadania}`, żeby odnośniki nadal działały. Poprawki zgłaszaj przez Pull Request.
 
 ## Autorzy
 
