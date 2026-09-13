@@ -201,7 +201,11 @@ Podczas wykonywania zadania [Niebezpieczne polowanie](#niebezpieczne-polowanie) 
 
 Z notatką udajemy się do Regulusa, który poleci nam zanieść ją do Amula w Bakareshu. Jeśli nie znamy drogi, Regulus może nas tam zaprowadzić. Po rozmowie z Amulem zadanie dobiega końca.
 
-> Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolicach Ben Sala. Każde użycie przywoła przeciwników — po ich pokonaniu możemy otworzyć skrzynię z nagrodami.
+:::tip Wskazówka
+
+Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolicach Ben Sala. Każde użycie przywoła przeciwników — po ich pokonaniu możemy otworzyć skrzynię z nagrodami.
+
+:::
 
 ### Niewolnica z Lago {#niewolnica-z-lago}
 __Zleca: Shakyor__
@@ -444,7 +448,11 @@ Następnie prowadzimy niewolnicę do Murata, jednak ten jej nie chce. Rozmawiamy
 
 Po wszystkim wracamy do Bandaro, co kończy zadanie.
 
->Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
+:::tip Wskazówka
+
+Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
+
+:::
 
 ### Arena w Mora Sul {#arena-w-mora-sul}
 __Zleca: Felipe__

@@ -723,7 +723,12 @@ Z kompletem przedmiotów udajemy się do Bartholo. Dla maksymalnego zysku warto 
 
 ## Szpieg {#szpieg}
 __Zleca: Świstak__
->Podczas wykonywania zadania możemy zabić Bustera lub Świstaka, jednak jest to błędny wybór, ponieważ żaden z nich nie jest szpiegiem. W poniższym opisie skupiam się wyłącznie na poprawnym rozwiązaniu zagadki.
+
+:::warning Uwaga
+
+Podczas wykonywania zadania możemy zabić Bustera lub Świstaka, jednak jest to błędny wybór, ponieważ żaden z nich nie jest szpiegiem. W poniższym opisie skupiam się wyłącznie na poprawnym rozwiązaniu zagadki.
+
+:::
 
 Świstak w Nowym Obozie informuje nas, że Gomez wysłał kogoś na zwiad. W związku z tym udajemy się kolejno do Spiki, a następnie do Horacego, który kieruje nas do chatek rybackich. Na miejscu znajdujemy dziwną rybę, w której ukryta jest notatka. Po jej przeczytaniu wracamy do Horacego, a ten odsyła nas do Rufusa. Warto też zagadać do Pocka.
 

@@ -207,7 +207,11 @@ Spotykamy się z nim przy kopcu rudy, gdzie dochodzi do naładowania miecza.
 
 Po wszystkim wracamy do Regulusa, który czeka w karczmie na jeziorze.
 
-> Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
+:::tip Wskazówka
+
+Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
+
+:::
 
 ## Powrót do świątyni {#powrot-do-swiatyni}
 __Zleca:__
@@ -217,5 +221,10 @@ Po naładowaniu Uriziela możemy wraz z Regulusem wrócić do świątyni. Rozmaw
 Dalszy przebieg zadania jest liniowy, więc nie wymaga szczegółowego opisu.
 
 ---
-> Po ostatecznym pokonaniu Śniącego kończymy modyfikację.  
-> **Gratulacje! :tada:**
+
+:::info Informacja
+
+Po ostatecznym pokonaniu Śniącego kończymy modyfikację.  
+**Gratulacje! :tada:**
+
+:::
